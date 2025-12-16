@@ -22,6 +22,14 @@ service scanning, and vulnerability assessment.
 - wafw00f
 - feroxbuster
 
+## ▶️ Usage:
+- python3 recon.py example.com -f subs/
+
+## ⚠️ Disclaimer
+
+This tool is for educational and authorized testing only.
+Use it only on domains you own or have permission to test.
+
 ## 📦 Installation
 
 ```bash
