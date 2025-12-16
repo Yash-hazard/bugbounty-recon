@@ -33,6 +33,6 @@ Use it only on domains you own or have permission to test.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/<your-username>/bugbounty-recon.git
+git clone https://github.com/Yash-hazard/bugbounty-recon.git
 cd bugbounty-recon
 
